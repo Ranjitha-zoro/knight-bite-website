@@ -1,0 +1,64 @@
+ @media (max-width: 576px) { 
+    home-nav{overflow-x: visible;}
+    *{
+        font-size: small;
+    }
+    .home-nav{
+    background: rgba(0, 0, 0, 0.12);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    position: fixed;
+    }
+   
+    .content h1{
+        font-size: 30px;
+    }
+    .store-buttons img{
+      height: 30px;
+      width: 100%;
+    }
+    .features{
+       display: grid;
+       grid-template-columns:repeat(2,auto);
+       justify-content: center;
+       height: 10vh;
+
+    }
+    .features img {
+        height: 50%;
+        width: 50%;
+    }
+    .features p{
+        font-size: small;
+    }
+
+    .banner1 h1{
+        background: url(../IMG/media-banner-1.webp) no-repeat center/cover;
+        font-size: 50px;
+    }
+    .banner2 h1{
+        background: url(../IMG/media-banner-2.webp) no-repeat center/cover;
+        font-size: 50px;
+        background: none;
+    }
+
+    .footer-inner{
+        display: flex;
+        flex-direction:column;
+        margin: 0 20px;
+    }
+
+    .f-mail div{
+        margin: 10px;
+    }
+    .footer-main h1{
+        font-size: larger;
+    }
+    .Follow-us img{
+        margin: 0;
+        height: 25%;
+    }
+} 

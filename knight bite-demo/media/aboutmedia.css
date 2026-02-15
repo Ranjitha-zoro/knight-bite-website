@@ -1,0 +1,37 @@
+@media (max-width: 576px) { 
+    home-nav{overflow-x: visible;}
+    *{
+        margin: 0;
+        font-size: small;
+    }
+
+    .about-nav{
+    background: rgba(0, 0, 0, 0.12);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    position: fixed;
+    }
+
+    .conttent{
+    display: flex;
+    color: white;
+    height:100vh;
+    width: 100vw;
+    font-family: cursive;
+    align-items: center;
+    justify-content:center;
+}
+    .about-grid{
+        display: flex;
+        flex-direction: column;
+        padding: 30px;
+    }
+
+   .follow-us img{
+    height: 10%;
+    width: 10%;
+   }
+}
