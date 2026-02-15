@@ -12,7 +12,6 @@ A responsive restaurant website interface built using HTML, CSS, and JavaScript.
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Basics)
 
 ## 📌 Purpose
 This project was built to practice front-end development skills such as layout design, styling, and basic interactivity.
