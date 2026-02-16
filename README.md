@@ -19,3 +19,5 @@ This project was built to practice front-end development skills such as layout d
 ## 👩‍💻 Author
 Ranjitha B S
 Front-End Developer (Fresher)
+## Live Demo
+https://hilarious-bavarois-216a7a.netlify.app/
