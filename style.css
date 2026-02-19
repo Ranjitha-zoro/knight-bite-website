@@ -8,7 +8,7 @@
     height: 100vh;
 }
 .home_inner{
-    background:url(IMG/app-link-background.svg) no-repeat center/cover;
+    background:url(./IMG/app-link-background.svg) no-repeat center/cover;
     height: 100vh;
     background-position: center;
 
