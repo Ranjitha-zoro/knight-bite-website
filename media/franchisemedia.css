@@ -1,0 +1,68 @@
+@media (max-width: 576px) { 
+    home-nav{overflow-x: visible;}
+    *{
+        margin: 0;
+        padding: 0;
+        font-size: small;
+        text-align: center;
+    }
+  
+    .franchise_nav{
+    background: rgba(0, 0, 0, 0.12);
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+    position: fixed;
+    }
+    .franchise-inner-content h1{
+        font-size: large;
+        text-align: center;
+    }
+    .franchise-inner-content h3{
+        font-size: medium;
+        text-align: center;
+    }
+    .franchise-inner-content button{
+        width: 50%;
+    }
+    .f-conttent{
+        padding: 15px 5px !important;
+        margin: 15px 5px !important;
+    }
+    .f-conttent h1 {
+        font-size: 10px;
+    }
+    .f-conttent .cp1{
+        font-size: small;
+       width: 70%;
+       
+    }
+     .f-conttent .cp2{
+        font-size: small;
+        width: 70%;
+    }
+
+    .keybenifits{
+        display: grid;
+        grid-template-columns: repeat(2,auto);
+        flex-wrap: wrap;
+    }
+    .keyconttent img{
+        height: 20%;
+        width: 20%;
+    }
+    .keyconttent h3 p{
+        font-size: 20px;
+    }
+
+    .formcontent{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fq-conttent {
+        width: 90%;
+    }
+}
