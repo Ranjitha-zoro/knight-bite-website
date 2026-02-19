@@ -8,7 +8,7 @@
     height: 100vh;
 }
 .home_inner{
-    background:url(../IMG/app-link-background.svg) no-repeat center/cover;
+    background:url(/IMG/app-link-background.svg) no-repeat center/cover;
     height: 100vh;
     background-position: center;
 
@@ -155,7 +155,7 @@
 /* section2 */
 
         .banner1{
-            background: url(../IMG/banner-1.webp) no-repeat center/cover;
+            background: url(/IMG/banner-1.webp) no-repeat center/cover;
             height: 100vh;
             display: flex;
             text-align: center;
@@ -174,7 +174,7 @@
         }
 /* section3 */
         .banner2{
-            background: url(../IMG/banner-2.webp) no-repeat center/cover;
+            background: url(/IMG/banner-2.webp) no-repeat center/cover;
             height: 100vh;
             width: 100%;
             display: block;
